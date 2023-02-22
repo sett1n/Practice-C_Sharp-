@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe.config
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.pdb
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.exe
+C:\Users\user\OneDrive\Рабочий стол\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.pdb
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe.config
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.pdb
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.exe
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_1\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.pdb
