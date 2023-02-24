@@ -1,0 +1,30 @@
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\bin\Debug\net6.0\Task_7.exe
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\bin\Debug\net6.0\Task_7.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\bin\Debug\net6.0\Task_7.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\bin\Debug\net6.0\Task_7.dll
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\bin\Debug\net6.0\Task_7.pdb
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.dll
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\refint\Task_7.dll
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.pdb
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\Task_7.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Task_7\Task_7\obj\Debug\net6.0\ref\Task_7.dll
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\bin\Debug\net6.0\Task_7.exe
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\bin\Debug\net6.0\Task_7.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\bin\Debug\net6.0\Task_7.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\bin\Debug\net6.0\Task_7.dll
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\bin\Debug\net6.0\Task_7.pdb
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.dll
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\refint\Task_7.dll
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.pdb
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\Task_7.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Практика C#\Class_2\Task_7\Task_7\obj\Debug\net6.0\ref\Task_7.dll
