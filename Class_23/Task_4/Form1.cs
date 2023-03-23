@@ -224,7 +224,7 @@ namespace Task_4
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            textBox6.Text = null;
         }
     }
 }
