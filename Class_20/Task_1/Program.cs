@@ -32,10 +32,18 @@ namespace Task_1
             a = x1;
             b = x2;
         }
+        /// <summary>
+        /// Возвращает результат вычисления функции f(a) = a^3 - sin(a).
+        /// </summary>
+        /// <returns>Значение функции f(a).</returns>
         public double Method1()
         {
             return Math.Pow(a, 3) - Math.Sin(a);
         }
+        /// <summary>
+        /// Возвращает результат вычисления функции f(b) = b^3 - sin(b).
+        /// </summary>
+        /// <returns>Значение функции f(b).</returns>
         public double Method2()
         {
             return Math.Pow(b, 3) - Math.Sin(b);
