@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        mc:Ignorable="d"
+        Title="График функции" Height="450" Width="800">
+    <Grid x:Name="form1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Параметры графика" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10"/>
+        <Label Content="Xmin:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40"/>
+        <TextBox x:Name="textboxXmin" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,40" Width="100" Text="0"/>
+        <Label Content="Xmax:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,70"/>
+        <TextBox x:Name="textboxXmax" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,70" Width="100" Text="10"/>
+        <Label Content="Шаг:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,100"/>
+        <TextBox x:Name="textboxStep" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,100" Width="100" Text="0.1"/>
+
+        <Label Grid.Row="1" Content="Параметры таблицы данных" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,140"/>
+        <Label Grid.Row="2" Content="X:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,170"/>
+        <TextBox x:Name="textboxX" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,170" Width="100" Text="0"/>
+
+        <Button Grid.Row="3" Content="Рассчитать" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="10,210" Click="Button_Click"/>
+
+        <Label Grid.Row="4" Content="Таблица данных:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,260"/>
+        <DataGrid x:Name="dataGrid" Grid.Row="5" Margin="10,290" AutoGenerateColumns
